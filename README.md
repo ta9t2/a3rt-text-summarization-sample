@@ -15,3 +15,4 @@ A3RT Text Summarization APIを使った文章要約のサンプルプログラ�
 ## 参考
 
 - [Text Summarization API｜PRODUCT｜A3RT](https://a3rt.recruit-tech.co.jp/product/TextSummarizationAPI/) - 文章要約に利用しているAPI
+- [図書カード：白雪姫 | 青空文庫](https://www.aozora.gr.jp/cards/001091/card42308.html) - サンプルに使っている文章
